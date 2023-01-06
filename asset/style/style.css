@@ -1,0 +1,68 @@
+* {
+    margin: 0 auto;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* Header Section Style */
+.banner {
+    background-image: url('../images/banner/banner2.png');
+    height: 100%;
+    background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.banner-container{
+    text-align: right;
+    padding: 216px 230px 365px 845px;
+}
+
+.banner-title{
+    font-size: 63px;
+    font-weight: 700;
+    line-height: 76px;
+}
+
+.banner-description{
+    font-size: 16px;
+    line-height: 26px;
+    padding: 24px 0 32px 0;
+}
+
+.banner-btn{
+    background: #F15B22;
+    color: white;
+    border: 0;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 20px 25px;
+}
+
+/* Failuer Year Setction Style */
+.failuer-year-container{
+    display: flex;
+    gap: 150px;
+    align-items: center;
+    width: 60%;
+    padding: 130px 0 130px 0;
+}
+
+.failuer-year-title{
+    font-size: 40px;
+    font-weight: 46px;
+    line-height: 46px;
+}
+
+.failure-year-description{
+    font-size: 16px;
+    line-height: 26px;
+    padding: 24px 0 16px 0;
+}
+
+.failure-points p {
+    font-size: 16px;
+    padding-bottom: 8px;
+}
