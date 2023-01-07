@@ -144,7 +144,7 @@
 }
 
 /* Gallery Style */
-.gallery{
+.gallery {
     display: flex;
     gap: 50px;
     justify-content: center;
@@ -153,11 +153,12 @@
     padding-bottom: 130px;
 }
 
-.fa-solid{
+.fa-solid {
     color: #F15B22;
     font-size: 50px;
 }
-.gallery img{
+
+.gallery img {
     width: 20%;
 }
 
@@ -212,5 +213,4 @@
     color: #F15B22;
     background: white;
     border-radius: 8px;
-
 }
